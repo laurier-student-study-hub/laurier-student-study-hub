@@ -2,9 +2,9 @@
 
 Developed by: 
 
-Abrar Murad
-Ali Mujtaba Ahmed
-Syed Rafae Hashmi
+Abrar Murad, 
+Ali Mujtaba Ahmed, 
+Syed Rafae Hashmi, 
 Zayed Syed
 
 Check it out here -> https://lsshub.netlify.app/
