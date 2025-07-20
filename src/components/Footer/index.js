@@ -55,37 +55,7 @@ const Footer = () => {
                         </FooterLinkItems>
                     </FooterLinksWrapper>
                     <FooterLinksWrapper>
-                        <FooterLinkItems>
-                            <FooterLinkTitle>Developers</FooterLinkTitle>
-                            <a
-                                id="links"
-                                href="https://www.linkedin.com/in/abrar-murad/"
-                                target="_blank"
-                            >
-                                Abrar Murad
-                            </a>
-                            <a
-                                id="links"
-                                href="https://www.linkedin.com/in/ali-mujtaba-ahmed-8a017b246/"
-                                target="_blank"
-                            >
-                                Ali Ahmed
-                            </a>
-                            <a
-                                id="links"
-                                href="https://www.linkedin.com/in/zayed-syed-97027a246/"
-                                target="_blank"
-                            >
-                                Zayed Sayed
-                            </a>
-                            <a
-                                id="links"
-                                href="https://www.linkedin.com/in/syed-rafae-hashmi/"
-                                target="_blank"
-                            >
-                                Rafae Hashmi
-                            </a>
-                        </FooterLinkItems>
+
                     </FooterLinksWrapper>
                 </FooterLinksContainer>
                 <WebsiteRights>LSSHub | All Rights Reserved</WebsiteRights>
